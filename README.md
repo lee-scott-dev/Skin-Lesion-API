@@ -1,4 +1,3 @@
-```markdown
 # HAM10000 Skin Lesion Inference API
 
 REST API built with FastAPI for binary skin lesion classification (Typical vs Atypical) using LeNet-5 models trained on the HAM10000 dataset.  
@@ -117,4 +116,3 @@ requirements.txt
 ## CI
 
 GitHub Actions runs dependency installation and the full pytest suite on every push.
-```
