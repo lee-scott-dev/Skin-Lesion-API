@@ -64,12 +64,12 @@ docker run -p 8000:8000 skin-lesion-api
 
 ## API Endpoints
 
-### `GET /` — Health check
+### `GET /` - Health check
 ```json
 { "status": "ok", "message": "Service running" }
 ```
 
-### `GET /models` — List available models
+### `GET /models` - List available models
 ```json
 {
   "available_models": [
@@ -82,8 +82,8 @@ docker run -p 8000:8000 skin-lesion-api
 }
 ```
 
-### `POST /predict?model_id=best_model_og_LN` — Predict
-Content-Type: `multipart/form-data` · Field: `file` — image
+### `POST /predict?model_id=best_model_og_LN` - Predict
+Content-Type: `multipart/form-data` · Field: `file` - image
 
 ```json
 {
