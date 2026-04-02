@@ -124,4 +124,4 @@ GitHub Actions runs dependency installation and the full pytest suite on every p
 
 ## Related
 
-- [BSc Dissertation – Data Augmentation for Skin Lesion Classification](https://github.com/lee-scott-dev/MT4599-Data-Augmentation-for-Deep-Learning-on-Images)
+- [BSc Dissertation – Data Augmentation for Skin Lesion Classification](https://github.com/lee-scott-dev/comparative-skin-lesion-cnn-augmentation-study)
