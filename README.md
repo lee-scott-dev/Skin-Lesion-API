@@ -116,3 +116,13 @@ requirements.txt
 ## CI
 
 GitHub Actions runs dependency installation and the full pytest suite on every push.
+
+## Tech Stack
+
+- Python, FastAPI, PyTorch
+- Docker, GitHub Actions
+- pytest
+
+## Related
+
+- [BSc Dissertation – Data Augmentation for Skin Lesion Classification](https://github.com/leewscott/MT4599-Data-Augmentation-for-Deep-Learning-on-Images)
